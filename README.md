@@ -53,13 +53,6 @@ Example:
 - Type `quit` or `exit` to disconnect
 - New clients automatically see recent message history
 
-## Quick Test
-
-Run the automated test:
-```bash
-chmod +x test_system.sh
-./test_system.sh
-```
 
 ## Clean Build
 
