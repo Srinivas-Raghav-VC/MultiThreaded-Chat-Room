@@ -1,4 +1,4 @@
-# Chat Room System
+# Chat Room Application
 
 A high-performance multi-client chat room built with C++ and Boost.Asio.
 
